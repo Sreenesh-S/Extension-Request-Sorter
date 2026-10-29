@@ -1,0 +1,25 @@
+id,date,request
+R01,2026-10-01,Please give me 2 more days for the CS101 lab record. I have been unwell since Monday.
+R02,2026-10-01,My grandmother passed away and I travelled home. Need 5 days extension for MA102 assignment.
+R03,2026-10-02,The PH103 assignment portal would not upload my file. Could I have two extra days?
+R04,2026-10-02,I need 4 days for the CS101 programming assignment because several submissions are due together.
+R05,2026-10-03,Need extension.
+R06,2026-10-03,Can I get 3 days for MA102? I have had a fever and could not study.
+R07,2026-10-03,Please allow me 2 extra days for PH103 because my laptop stopped working.
+R08,2026-10-04,I need an extension for the CS101 lab record because I am busy.
+R09,2026-10-04,May I submit the MA102 assignment on Monday? There has been a family emergency.
+R10,2026-10-04,Please give me 1 day extra for PH103 due to a medical issue.
+R11,2026-10-05,I need 7 days for CS101 because I have too many assignments this week.
+R12,2026-10-05,The college network failed while I was submitting the PH103 work. Need 3 days.
+R13,2026-10-05,Could I have 2 days more for MA102? I have a family responsibility to attend to.
+R14,2026-10-06,My sister's wedding is on Friday. Can I submit the PH103 assignment on Monday?
+R15,2026-10-06,Please give me five days for the CS101 project because I am travelling for a family event.
+R16,2026-10-06,I need 2 extra days for MA102 because the learning portal has been down.
+R17,2026-10-07,Can I have 3 days for PH103? I am dealing with a medical problem.
+R18,2026-10-07,Please extend my deadline by 6 days for MA102 because of workload.
+R19,2026-10-07,I need 2 more days for CS101 due to a family emergency.
+R20,2026-10-08,Can I get an extension for PH103? The deadline page is not loading.
+R21,2026-10-08,"Please give me 10 days for MA102. I have no particular reason, I just need more time."
+R22,2026-10-08,I need three days extra for CS101 because my computer crashed.
+R23,2026-10-09,Please approve my request for 2 days for PH103. I have a medical reason.
+R24,2026-10-09,Can I get 2 days for XY999? I had a technical problem with the upload.
